@@ -41,7 +41,7 @@ namespace Opgave_1_test
 
         }
 
-        //Year
+      
         [TestMethod]
         public void ValidateYear_Less()
         {
@@ -80,13 +80,12 @@ namespace Opgave_1_test
         [TestMethod]
         public void ValidateToString()
         {
-            // Arrange
             var trophyWithId = new Trophy { Id = 8, Competition = "Valid", Year = 2023 };
 
-            // Act
+        
             var result = trophyWithId.ToString();
 
-            // Assert
+           
             Assert.AreEqual("ID8 CompetitionValid Year2023", result);
         }
         [TestMethod]
