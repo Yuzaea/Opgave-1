@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vnj22\\source\\repos\\Opgave-15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD3B8B-50FB-4222-B44F-9A73EE4E5E41}|Opgave 1.csproj|c:\\users\\vnj22\\source\\repos\\opgave-15\\trophiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD3B8B-50FB-4222-B44F-9A73EE4E5E41}|Opgave 1.csproj|solutionrelative:trophiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD3B8B-50FB-4222-B44F-9A73EE4E5E41}|Opgave 1.csproj|c:\\users\\vnj22\\source\\repos\\opgave-15\\trophy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD3B8B-50FB-4222-B44F-9A73EE4E5E41}|Opgave 1.csproj|solutionrelative:trophy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD3B8B-50FB-4222-B44F-9A73EE4E5E41}|Opgave 1.csproj|c:\\users\\vnj22\\source\\repos\\opgave-15\\opgave 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82BD3B8B-50FB-4222-B44F-9A73EE4E5E41}|Opgave 1.csproj|solutionrelative:opgave 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAEA205-5BF7-4335-A878-342EF1248C33}|..\\RepoTest\\RepoTest.csproj|c:\\users\\vnj22\\source\\repos\\repotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6B7972-2C62-44E9-B475-52871BF36B9F}|..\\Opgave 1 test\\Opgave 1 test.csproj|c:\\users\\vnj22\\source\\repos\\opgave 1 test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6B7972-2C62-44E9-B475-52871BF36B9F}|..\\Opgave 1 test\\Opgave 1 test.csproj|c:\\users\\vnj22\\source\\repos\\opgave 1 test\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6B7972-2C62-44E9-B475-52871BF36B9F}|..\\Opgave 1 test\\Opgave 1 test.csproj|c:\\users\\vnj22\\source\\repos\\opgave 1 test\\opgave 1 test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Opgave 1",
+              "DocumentMoniker": "C:\\Users\\Vnj22\\Source\\Repos\\Opgave-15\\Opgave 1.csproj",
+              "RelativeDocumentMoniker": "Opgave 1.csproj",
+              "ToolTip": "C:\\Users\\Vnj22\\Source\\Repos\\Opgave-15\\Opgave 1.csproj",
+              "RelativeToolTip": "Opgave 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T10:27:49.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trophy.cs",
+              "DocumentMoniker": "C:\\Users\\Vnj22\\source\\repos\\Opgave-15\\Trophy.cs",
+              "RelativeDocumentMoniker": "Trophy.cs",
+              "ToolTip": "C:\\Users\\Vnj22\\source\\repos\\Opgave-15\\Trophy.cs",
+              "RelativeToolTip": "Trophy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:32:53.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Vnj22\\source\\repos\\Opgave 1 test\\Usings.cs",
+              "RelativeDocumentMoniker": "..\\Opgave 1 test\\Usings.cs",
+              "ToolTip": "C:\\Users\\Vnj22\\source\\repos\\Opgave 1 test\\Usings.cs",
+              "RelativeToolTip": "..\\Opgave 1 test\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:30:38.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Vnj22\\source\\repos\\Opgave 1 test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Opgave 1 test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Vnj22\\source\\repos\\Opgave 1 test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Opgave 1 test\\UnitTest1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:43:46.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Vnj22\\source\\repos\\RepoTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\RepoTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Vnj22\\source\\repos\\RepoTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\RepoTest\\UnitTest1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:33:20.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrophiesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vnj22\\source\\repos\\Opgave-15\\TrophiesRepository.cs",
+              "RelativeDocumentMoniker": "TrophiesRepository.cs",
+              "ToolTip": "C:\\Users\\Vnj22\\source\\repos\\Opgave-15\\TrophiesRepository.cs",
+              "RelativeToolTip": "TrophiesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:53:28.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Opgave 1 test.csproj",
+              "DocumentMoniker": "C:\\Users\\Vnj22\\Source\\Repos\\Opgave 1 test\\Opgave 1 test.csproj",
+              "RelativeDocumentMoniker": "..\\Opgave 1 test\\Opgave 1 test.csproj",
+              "ToolTip": "C:\\Users\\Vnj22\\Source\\Repos\\Opgave 1 test\\Opgave 1 test.csproj",
+              "RelativeToolTip": "..\\Opgave 1 test\\Opgave 1 test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T20:38:45.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
